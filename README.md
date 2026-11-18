@@ -1,4 +1,4 @@
-# Thermal Process Controller (Verilog FSM)
+# FSM-Based Thermal Controller for Processor Protection
 
 A synthesizable **4-state Moore finite state machine** in Verilog that monitors
 an 8-bit temperature sensor input and manages thermal protection outputs
